@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['sensor_5fhall_0',['SENSOR_HALL',['../group___p_i_n_e_s___s_e_n_s_o_r_e_s.html#gaf5a0cbd62394243d503b14a4e5d686b8',1,'pinout.h']]],
+  ['sensor_5fmic_1',['SENSOR_MIC',['../group___p_i_n_e_s___s_e_n_s_o_r_e_s.html#ga69e2ffd5476f6436f65c3d42f799ac90',1,'pinout.h']]],
+  ['sensores_20analógicos_20ky_2',['Sensores analógicos KY',['../group___p_i_n_e_s___s_e_n_s_o_r_e_s.html',1,'']]],
+  ['setup_5fstate_5fmachine_3',['setup_State_Machine',['../fsm_8h.html#afaa1ddb85c1290efa6bef2b327289405',1,'fsm.h']]],
+  ['sig_5factivaciones_4',['SIG_ACTIVACIONES',['../fsm_8h.html#a080a822f0093973313bd644e517a5090a3d3767af15979b4d42cb23c165b29595',1,'fsm.h']]],
+  ['sig_5falarma_5fcond_5',['SIG_ALARMA_COND',['../fsm_8h.html#a080a822f0093973313bd644e517a5090ae7472d2d1253ffcb9673f332389a865f',1,'fsm.h']]],
+  ['sig_5fbloqueado_6',['SIG_BLOQUEADO',['../fsm_8h.html#a080a822f0093973313bd644e517a5090ad1cae348a2eef6567429db7ef77587e7',1,'fsm.h']]],
+  ['sig_5fboton_7',['SIG_BOTON',['../fsm_8h.html#a080a822f0093973313bd644e517a5090a9a6391cc568f02f6b73b711a04373702',1,'fsm.h']]],
+  ['sig_5fclave_5fcorrecta_8',['SIG_CLAVE_CORRECTA',['../fsm_8h.html#a080a822f0093973313bd644e517a5090aa46148f29f4e3df76468dd6252e81a2b',1,'fsm.h']]],
+  ['sig_5fintrusos_9',['SIG_INTRUSOS',['../fsm_8h.html#a080a822f0093973313bd644e517a5090a240c2c6766c737ea341c1c07f8775a02',1,'fsm.h']]],
+  ['sig_5ftecla_5fasterisco_10',['SIG_TECLA_ASTERISCO',['../fsm_8h.html#a080a822f0093973313bd644e517a5090a346025daa98d5980263a267da77c3566',1,'fsm.h']]],
+  ['sig_5ftecla_5fhash_11',['SIG_TECLA_HASH',['../fsm_8h.html#a080a822f0093973313bd644e517a5090ae1f9a68a5e8d835ef2111ac0d00d25d4',1,'fsm.h']]],
+  ['sig_5ftimeout_5famb_5fto_5fint_12',['SIG_TIMEOUT_AMB_TO_INT',['../fsm_8h.html#a080a822f0093973313bd644e517a5090a99d49eb8eb012b95790d9b553e72c626',1,'fsm.h']]],
+  ['sig_5ftimeout_5fambient_13',['SIG_TIMEOUT_AMBIENT',['../fsm_8h.html#a080a822f0093973313bd644e517a5090a56521b9e4b600da6e3d27fdedc002b5c',1,'fsm.h']]],
+  ['sig_5ftimeout_5fbloqueo_14',['SIG_TIMEOUT_BLOQUEO',['../fsm_8h.html#a080a822f0093973313bd644e517a5090a2c31e4906e7c55b8525c593bdb929ab1',1,'fsm.h']]],
+  ['sig_5ftimeout_5fintrus_15',['SIG_TIMEOUT_INTRUS',['../fsm_8h.html#a080a822f0093973313bd644e517a5090a0159853969f7348592a3ede1153e1dec',1,'fsm.h']]],
+  ['sig_5ftimeout_5fintrus2_16',['SIG_TIMEOUT_INTRUS2',['../fsm_8h.html#a080a822f0093973313bd644e517a5090ac029e03939b24fec509f355fc6f82580',1,'fsm.h']]],
+  ['sig_5funknown_17',['SIG_UNKNOWN',['../fsm_8h.html#a080a822f0093973313bd644e517a5090ac615a71fb157944700dd7c4b10bbe79b',1,'fsm.h']]],
+  ['sin_20módulo_20rtc_18',['Hora del sistema (valor fijo, sin módulo RTC)',['../group___h_o_r_a___s_i_s_t_e_m_a.html',1,'']]],
+  ['sistema_19',['Límites lógicos del sistema',['../group___l_i_m_i_t_e_s.html',1,'']]],
+  ['sistema_20valor_20fijo_20sin_20módulo_20rtc_20',['Hora del sistema (valor fijo, sin módulo RTC)',['../group___h_o_r_a___s_i_s_t_e_m_a.html',1,'']]],
+  ['sistemamonitoreo_2eino_21',['SistemaMonitoreo.ino',['../_sistema_monitoreo_8ino.html',1,'']]],
+  ['spi_22',['Módulo RFID MFRC522 (SPI)',['../group___p_i_n_e_s___r_f_i_d.html',1,'']]],
+  ['state_23',['State',['../fsm_8h.html#a5d74787dedbc4e11c1ab15bf487e61f8',1,'fsm.h']]],
+  ['statemachine_2eino_24',['statemachine.ino',['../statemachine_8ino.html',1,'']]]
+];
